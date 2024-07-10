@@ -34,3 +34,11 @@ This project explores the relationship between gene expression profiles and surv
 > Characterized distinct survival profiles associated with high and low expression levels of key genes within each cluster.
 
 > Provided insights into potential biomarkers and therapeutic targets based on gene expression patterns and survival associations.
+
+# Conclusion
+The survival analysis reveals that the expression of the selected gene (NUP43) affects survival patterns differently across clusters:
+> Significant impact in Cluster 1.
+
+> No significant impact in Clusters 2 and 3.
+
+These findings can guide further research into understanding the role of NUP43 in breast cancer subtypes and could potentially inform targeted therapeutic strategies based on cluster-specific gene expression profiles.
