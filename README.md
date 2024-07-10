@@ -1,6 +1,6 @@
 # TCGA-BRCA Dataset Analysis: Gene Expression and Survival in Breast Cancer
 
-This project explores the relationship between gene expression profiles and survival outcomes in breast cancer using data from The Cancer Genome Atlas (TCGA) Breast Invasive Carcinoma (BRCA) dataset. The analysis integrates genomic data with clinical information to identify genes that significantly impact patient survival and to understand how these genes manifest in distinct patient clusters.
+This project explores the relationship between gene expression profiles and survival outcomes in breast cancer using data from The Cancer Genome Atlas (TCGA) Breast Invasive Carcinoma (BRCA) dataset (cbioportal). The analysis integrates genomic data with clinical information to identify genes that significantly impact patient survival and to understand how these genes manifest in distinct patient clusters.
 
 # Objectives
 # 1. Data Acquisition: 
